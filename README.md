@@ -1,1 +1,3 @@
-Este Projeto
+## Descrição do Projeto
+
+Baseado nos dados dos cliente de uma instituição bancaria, este ensaio procura obter uma possível explicação do Por que clientes deixam de honrar com suas dívidas junto ao banco? As variáveis que talvez nos garantam explicações independentes são de ordem discreta/numérica e categórica. Este ensaio é composto por 4 sessões. A primeira apresenta a exploração dos dados utilizando o Pandas. A segunda apresenta as transformações e limpeza realizadas na df para garantir a concisão dos dados. A terceira apresenta as visualizações mais interessantes. A quarta e última apresentam os insights com uma breve análise e proposta de resposta a pergunta que já de antemão foi apresentada.
